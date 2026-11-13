@@ -6,9 +6,9 @@ This repository contains the study materials and analysis scripts for a developm
 
 The study examines children's third-party judgments of informant helpfulness in two contexts:
 
-Social-Personal Information: Information involving social relationships, emotional experiences, and interpersonal situations.
+- Social-Personal Information: Information involving social relationships, emotional experiences, and interpersonal situations.
 
-Epistemic Information: Information involving factual knowledge, categories, and learning how to perform skills.
+- Epistemic Information: Information involving factual knowledge, categories, and learning how to perform skills.
 
 <strong>Repository Contents</strong>
 
